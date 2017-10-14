@@ -44,3 +44,32 @@ Como adicionar uma nova sugestão de tradução
 
 * > How to Ask Questions in Private Beta?
 * > Como fazer perguntas no beta privado?
+
+----
+
+## [Nosso Modelo](https://pt.stackoverflow.com/help/stackexchange):
+
+### [What kind of behavior is expected of users?](https://pt.stackoverflow.com/help/behavior)
+
+* > What kind of behavior is expected of users?
+* > Que tipo de comportamento é esperado dos usuários?
+
+### [What if I see someone doing something bad?](https://pt.stackoverflow.com/help/flagging)
+
+* > What if I see someone doing something bad?
+* > E se eu ver alguém fazendo algo ruim?
+
+### [What does "beta" mean?](https://pt.stackoverflow.com/help/whats-beta)
+
+* > What does "beta" mean?
+* > O que significa "beta"?
+
+### [How to not be a spammer](https://pt.stackoverflow.com/help/promotion)
+
+* > How to not be a spammer
+* > Como não ser um spammer
+
+### [How do I report harassment?](https://pt.stackoverflow.com/help/harassment)
+
+* > How do I report harassment?
+* > CComo faço para relatar assédio?
