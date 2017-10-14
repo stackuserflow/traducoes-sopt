@@ -72,4 +72,9 @@ Como adicionar uma nova sugestão de tradução
 ### [How do I report harassment?](https://pt.stackoverflow.com/help/harassment)
 
 * > How do I report harassment?
-* > CComo faço para relatar assédio?
+* > Como faço para relatar assédio?
+
+### [How do I report harassment?](https://pt.stackoverflow.com/help/roomba)
+
+* > The Community user deleted my question! What gives?
+* > O usuário da Comunidade excluiu minha pergunta! O que dá?
