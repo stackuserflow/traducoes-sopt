@@ -78,3 +78,36 @@ Como adicionar uma nova sugestão de tradução
 
 * > The Community user deleted my question! What gives?
 * > O usuário da Comunidade excluiu minha pergunta! O que dá?
+
+----
+
+## [Reputação & Moderação](https://pt.stackoverflow.com/help/reputation):
+
+### [What is a locked post?](https://pt.stackoverflow.com/help/locked-posts)
+
+* > What is a locked post?
+* > O que é uma postagem fechada?
+
+----
+
+## [Minha Conta](https://pt.stackoverflow.com/help/account):
+
+### [How do I delete my account?](https://pt.stackoverflow.com/help/deleting-account)
+
+* > How do I delete my account?
+* > Como faço para excluir minha conta?
+
+### [How do I add or remove login credentials from my account?](https://pt.stackoverflow.com/help/edit-credentials)
+
+* > How do I add or remove login credentials from my account?
+* > Como faço para adicionar ou remover credenciais de login da minha conta?
+
+### [I accidentally created two accounts; how do I merge them?](https://pt.stackoverflow.com/help/merging-accounts)
+
+* > I accidentally created two accounts; how do I merge them?
+* > Eu acidentalmente criei duas contas; como faço para mesclá-las?
+
+### [Why have I been limited to one question per week?](https://pt.stackoverflow.com/help/question-limited)
+
+* > Why have I been limited to one question per week?
+* > Por que eu fui limitado a fazer uma pergunta por semana?
