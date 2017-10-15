@@ -40,11 +40,6 @@ Como adicionar uma nova sugestão de tradução
 * > Why is the system asking me to wait a day or more before asking another question?
 * > Por que o sistema está me pedindo para esperar um dia ou mais antes de fazer outra pergunta?
 
-### [How to Ask Questions in Private Beta](https://pt.stackoverflow.com/help/how-to-ask-beta)
-
-* > How to Ask Questions in Private Beta?
-* > Como fazer perguntas no beta privado?
-
 ----
 
 ## [Nosso Modelo](https://pt.stackoverflow.com/help/stackexchange):
@@ -58,11 +53,6 @@ Como adicionar uma nova sugestão de tradução
 
 * > What if I see someone doing something bad?
 * > E se eu ver alguém fazendo algo ruim?
-
-### [What does "beta" mean?](https://pt.stackoverflow.com/help/whats-beta)
-
-* > What does "beta" mean?
-* > O que significa "beta"?
 
 ### [How to not be a spammer](https://pt.stackoverflow.com/help/promotion)
 
